@@ -5,7 +5,7 @@
 
 ### Lessons
 
-- [Lesson 1](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson01/README.md) (25 August): Intro to Software Testing. SDLCs and the V-Model. Intro to Unit Testing
+- [Lesson 1](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson01/README.md) (25 August): Intro to Software Quality. SDLCs and the V-Model. Intro to Unit Testing
 - [Lesson 2](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/README.md) (1 September): Black-Box Test Design Techniques
 - [Lesson 3](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/README.md) (8 September): Unit Testing: test doubles, best practices, anti-patterns, and approaches
 - [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/README.md) (15 September): White-Box Test Design Techniques. Static Code Analysis
