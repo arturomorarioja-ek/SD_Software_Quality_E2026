@@ -15,5 +15,5 @@
 - Lesson 8 (13 October): Work on the First Mandatory Assignment
 - Lesson 9 (20 October): First Mandatory Assignment: student presentations
 - [Lesson 10](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson10/README.md) (27 October): Static Testing: Reviews
-- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Test Management: Risk Analysis. Usability Testing
+- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Software Quality Management: Risk Analysis. Usability Testing
 - [Lesson 12](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson12/README.md) (10 November): Stress Performance Testing
