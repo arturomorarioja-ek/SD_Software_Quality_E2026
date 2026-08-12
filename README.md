@@ -11,9 +11,9 @@
 - [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/README.md) (15 September): White-Box Test Design Techniques. Static Code Analysis
 - [Lesson 5](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson05/README.md) (22 September): Integration Testing. API Testing. DB Testing. Continuous Testing
 - [Lesson 6](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson06/README.md) (29 September): End-to-End UI Testing
-- [Lesson 7](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson07/README.md) (6 October): Acceptance Testing. Agile and Testing
+- [Lesson 7](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson07/README.md) (6 October): Acceptance Testing. Agile and Testing. Test-Driven Development
 - Lesson 8 (13 October): Work on the First Mandatory Assignment
 - Lesson 9 (20 October): First Mandatory Assignment: student presentations
 - [Lesson 10](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson10/README.md) (27 October): Static Testing: Reviews
-- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Test Management: Risk Analysis
+- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Test Management: Risk Analysis. Usability Testing
 - [Lesson 12](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson12/README.md) (10 November): Stress Performance Testing
