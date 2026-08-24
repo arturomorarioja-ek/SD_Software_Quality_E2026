@@ -3,3 +3,5 @@
 # Lesson 1 - 25 August
 
 [ROLL CALL]: #
+
+[Show calculator sum, then prescribe calculator in-class, then show slides on parameterised tests, then show vat]: #
