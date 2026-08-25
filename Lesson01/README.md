@@ -8,6 +8,7 @@ Check out the following slide decks on Itslearning:
   - Testing vs. Debugging
   - Static vs. Dynamic Testing
   - Positive vs. Negative Testing
+  - Regression Testing
     
 [ROLL CALL]: #
 
