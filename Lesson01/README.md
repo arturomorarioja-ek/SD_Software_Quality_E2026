@@ -9,7 +9,10 @@ Check out the following slide decks on Itslearning:
   - Static vs. Dynamic Testing
   - Positive vs. Negative Testing
   - Regression Testing
-    
-[ROLL CALL]: #
+  - Verification and Validation
+- **Introduction to Unit Testing**, specifically:
+  - The AAA pattern
 
-[Show calculator sum, then prescribe calculator in-class, then show slides on parameterised tests, then show vat]: #
+[show slides on parameterised tests, then show vat]: #
+## In-class exercise
+[Calculator](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson01/Ex%2001%20Calculator.md)
