@@ -3,6 +3,7 @@
 # Lesson 2 - 1 September
 
 [Roman numerals solution. Explain ChatGPT's dialog]: #
+[Slides on Pytest, Jest, PHPUnit]: #
 
 [SDLCs and the V-model]: #
 
