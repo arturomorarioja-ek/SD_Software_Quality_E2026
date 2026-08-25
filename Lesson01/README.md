@@ -10,10 +10,11 @@ Check out the following slide decks on Itslearning:
   - Positive vs. Negative Testing
   - Regression Testing
   - Verification and Validation
+  - The General Testing Principles
 - **Introduction to Unit Testing**, specifically:
   - The AAA pattern
+  - Parameterised tests/data providers
 
-[show slides on parameterised tests, then show vat]: #
 ## In-class exercise
 [Calculator](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson01/Ex%2001%20Calculator.md)
 
