@@ -6,6 +6,7 @@
 [Slides on Pytest, Jest, PHPUnit]: #
 
 [SDLCs and the V-model]: #
+[In-class exercise: https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html]: #
 
 [ROLL CALL]: #
 
