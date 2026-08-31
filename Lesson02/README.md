@@ -13,4 +13,5 @@
 [ROLL CALL]: #
 
 [BB]: #
+[Add here the links to the provider_check EP+BB code samples (they are linked in the slides)]: #
 [Flowers and Framing shop are homework]: #
