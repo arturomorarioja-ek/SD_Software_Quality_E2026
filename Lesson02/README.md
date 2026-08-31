@@ -2,6 +2,8 @@
 
 # Lesson 2 - 1 September
 
+[Download BlackBox slides]: #
+
 [Roman numerals solution. Explain ChatGPT's dialog]: #
 [Slides on Pytest, Jest, PHPUnit]: #
 
