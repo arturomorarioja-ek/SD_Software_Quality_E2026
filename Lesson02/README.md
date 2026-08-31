@@ -13,3 +13,4 @@
 [ROLL CALL]: #
 
 [BB]: #
+[Flowers and Framing shop are homework]: #
