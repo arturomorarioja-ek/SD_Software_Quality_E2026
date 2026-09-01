@@ -3,13 +3,15 @@
 # Lesson 2 - 1 September
 
 ## Class take-aways
-Check out the following slide deck on Itslearning:
+Check out the following slide decks on Itslearning:
 - **SDLCs and the V-model**, with special focus on:
   - The rationale of the V-model
   - How to apply it in the context of a software development project
   - How to apply it in an iterative development (e.g., Agile)
   - The differences between the four levels of testing (unit, integration, system, acceptance)
   - The Test Pyramid, with a critical focus as to its present day validity 
+- **Test Design Techniques - Black-box**, with especial attention to:
+  - Equivalence partitions
 
 ## In-class exercises
 - [V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html)
