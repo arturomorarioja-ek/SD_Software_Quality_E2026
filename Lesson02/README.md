@@ -35,6 +35,6 @@ Check out the following slide decks on Itslearning:
 ## Homework
 - Check out all the slides covered today
 - Check out the following boundary value analysis code sample:
-  - Provider Check ((Python/Pytest)[https://github.com/arturomorarioja/py_provider_check_unit_tests] | (JavaScript/Jest)[https://github.com/arturomorarioja/js_provider_check_unit_tests] | (PHP8/PHPUnit)[https://github.com/arturomorarioja/php_provider_check_unit_tests])
+  - Provider Check ([Python/Pytest](https://github.com/arturomorarioja/py_provider_check_unit_tests) | [JavaScript/Jest](https://github.com/arturomorarioja/js_provider_check_unit_tests) | [PHP8/PHPUnit](https://github.com/arturomorarioja/php_provider_check_unit_tests))
 - Solve the following exercise:
   - Equivalence partitions: [Flowers](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2002%20EP%20Flowers.md) 
