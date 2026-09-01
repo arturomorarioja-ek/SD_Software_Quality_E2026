@@ -32,5 +32,8 @@ Check out the following slide decks on Itslearning:
 - Check out the following boundary value analysis code sample:
   - Provider Check ([Python/Pytest](https://github.com/arturomorarioja/py_provider_check_unit_tests) | [JavaScript/Jest](https://github.com/arturomorarioja/js_provider_check_unit_tests) | [PHP8/PHPUnit](https://github.com/arturomorarioja/php_provider_check_unit_tests))
 - Solve the following exercises:
-  - Equivalence partitions: [Flowers](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2002%20EP%20Flowers.md) 
-  - Boundary values: [Framing shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2006%20EP%20BV%20Framing%20shop.md)
+  - Equivalence partitions: [Flowers](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2002%20EP%20Flowers.md)
+  - Equivalence partitions and boundary values:
+    - [Password Field](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2004%20EP%20BV%20Password%20field.md)
+    - [E-shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2005%20EP%20BV%20E-shop.md)
+    - [Framing shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2006%20EP%20BV%20Framing%20shop.md)
