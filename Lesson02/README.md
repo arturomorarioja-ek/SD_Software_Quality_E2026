@@ -12,7 +12,7 @@ Check out the following slide deck on Itslearning:
   - The Test Pyramid, with a critical focus as to its present day validity 
 
 ## In-class exercises
-- [V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html).
+- [V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html)
 - Black-box Test Design
   - Equivalence Partitions
     - [Bank account](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2001%20EP%20Bank%20account.md)
