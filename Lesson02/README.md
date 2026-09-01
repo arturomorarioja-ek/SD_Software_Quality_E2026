@@ -23,10 +23,6 @@ Check out the following slide decks on Itslearning:
   - [Bank account](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2001%20EP%20Bank%20account.md)
   - [Printer cartridges](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2003%20EP%20BV%20Printer%20cartridges.md) 
 
-[Slides on Pytest, Jest, PHPUnit]: #
-
-[UPLOAD THE CORRECT SLIDES TO ITSLEARNING AND ONEDRIVE]: #
-
 ## Homework
 - Check out all the slides covered today
 - Check out the following boundary value analysis code sample:
