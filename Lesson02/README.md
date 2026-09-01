@@ -8,11 +8,22 @@
 [Roman numerals solution. Explain ChatGPT's dialog]: #
 [Slides on Pytest, Jest, PHPUnit]: #
 
+## Class take-aways
+Check out the following slide deck on Itslearning:
+- **SDLCs and the V-model**, with special focus on:
+  - The rationale of the V-model
+  - How to apply it in the context of a software development project
+  - How to apply it in an iterative development (e.g., Agile)
+  - The differences between the four levels of testing (unit, integration, system, acceptance)
+  - The Test Pyramid, with a critical focus as to its present day validity 
+
 [SDLCs and the V-model]: #
-[In-class exercise: https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html]: #
+## In-class exercise
+[V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html).
 
 [ROLL CALL]: #
 
+[Intro to UT - value]: #
 [BB]: #
 [Add here the links to the provider_check EP+BB code samples (they are linked in the slides)]: #
 [(Python/Pytest) https://github.com/arturomorarioja/py_provider_check_unit_tests | (JavaScript/Jest) https://github.com/arturomorarioja/js_provider_check_unit_tests | (PHP8/PHPUnit) https://github.com/arturomorarioja/php_provider_check_unit_tests]: #
