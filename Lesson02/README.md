@@ -2,12 +2,6 @@
 
 # Lesson 2 - 1 September
 
-[Download BlackBox slides]: #
-[git clone provider_check repos (see below)]: #
-
-[Roman numerals solution. Explain ChatGPT's dialog]: #
-[Slides on Pytest, Jest, PHPUnit]: #
-
 ## Class take-aways
 Check out the following slide deck on Itslearning:
 - **SDLCs and the V-model**, with special focus on:
@@ -17,12 +11,15 @@ Check out the following slide deck on Itslearning:
   - The differences between the four levels of testing (unit, integration, system, acceptance)
   - The Test Pyramid, with a critical focus as to its present day validity 
 
-[SDLCs and the V-model]: #
-## In-class exercise
-[V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html).
+## In-class exercises
+- [V-Model](https://www.educaplay.com/learning-resources/30373599-the_v_model_for_software_testing.html).
+- Black-box Test Design
+  - Equivalence Partitions
+    - [Bank account](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2001%20EP%20Bank%20account.md)
 
 [ROLL CALL]: #
 
+[Slides on Pytest, Jest, PHPUnit]: #
 [Intro to UT - value]: #
 [BB]: #
 [Add here the links to the provider_check EP+BB code samples (they are linked in the slides)]: #
