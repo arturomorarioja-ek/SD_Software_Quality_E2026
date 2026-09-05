@@ -8,4 +8,8 @@
 
 [Slides on Pytest, Jest, PHPUnit]: #
 
+[Slides Intro to UT: SetUp & TearDown]: #
+[Slides Intro to UT: Test Doubles]: #
+[In-class ex: Order Pricing Service]: #
+
 [ROLL CALL]: #
