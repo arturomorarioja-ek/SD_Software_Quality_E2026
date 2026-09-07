@@ -17,3 +17,8 @@
 
 [Slides best practices and anti-patterns]: #
 [In-class ex: best practices and anti-patterns]: #
+
+[Slides approaches]: #
+[In-class ex: approaches]: #
+
+[Homework: employees]: #
