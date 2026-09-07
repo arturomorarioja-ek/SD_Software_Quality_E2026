@@ -15,4 +15,5 @@
 
 [ROLL CALL]: #
 
-[Add a new in-class exercise between anti-patterns and approaches. Maybe approaches needs to be moved to the following week]: #
+[Slides best practices and anti-patterns]: #
+[In-class ex: best practices and anti-patterns]: #
