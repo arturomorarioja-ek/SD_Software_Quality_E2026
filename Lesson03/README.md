@@ -2,10 +2,12 @@
 
 # Lesson 3 - 8 September
 
+[Git clone https://github.com/arturomorarioja/py_classical_vs_london, https://github.com/arturomorarioja/js_classical_vs_london, https://github.com/arturomorarioja/php_classical_vs_london]: #
+[Download slides best practices and anti-patterns]: #
+
 [Solutions to Flowers, Password field, E-shop, Framing shop]: #
 [Check out who solved them. Leave those they did not work on for the following week]: #
 [If they worked in all of them, solve 2 at the start of the class, one in the middle, the last one at the end]: #
-
 
 [Slides Intro to UT: SetUp & TearDown]: #
 [Slides on Pytest, Jest, PHPUnit]: #
