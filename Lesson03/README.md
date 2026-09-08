@@ -7,23 +7,27 @@
   - **Introduction to Unit Testing**, specifically:
     - Set up and tear down
     - Test Doubles
+  - **Unit Testing Best Practices and Anti-Patterns**
+    - Best practices
+      - Each test must verify only one behaviour
+      - Test case selection should be comprehensive
+      - Full regression testing should be run as often as possible
+      - Code must be written so that it is testable (e.g., pure functions or methods)
+    - Anti-patterns
+      - Do never test private methods directly
+      - Do never expose private state
+      - Do not leak domain knowledge to the unit tests
+      - Avoid code pollution
 
-## In-class exercise
+## In-class exercises
 - Test doubles: [Order Pricing Service](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2001%20Order%20Pricing%20Service.md)
+- [Unit testing best practices and anti-patterns](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2002%20Best%20Practices%20and%20Anti-Patterns.md)
 
-
-[Git clone https://github.com/arturomorarioja/py_classical_vs_london, https://github.com/arturomorarioja/js_classical_vs_london, https://github.com/arturomorarioja/php_classical_vs_london]: #
-[Download slides best practices and anti-patterns]: #
-
-[Solutions to Flowers, Password field, E-shop, Framing shop]: #
+[Solutions to E-shop, Framing shop]: #
 [Check out who solved them. Leave those they did not work on for the following week]: #
 [If they worked in all of them, solve 2 at the start of the class, one in the middle, the last one at the end]: #
 
-[Slides Intro to UT: SetUp & TearDown]: #
 [Slides on Pytest, Jest, PHPUnit]: #
-
-[Slides Intro to UT: Test Doubles]: #
-[In-class ex: Order Pricing Service]: #
 
 [ROLL CALL]: #
 
