@@ -2,6 +2,16 @@
 
 # Lesson 3 - 8 September
 
+## Class take-aways
+- Check out the following slide decks on Itslearning:
+  - **Introduction to Unit Testing**, specifically:
+    - Set up and tear down
+    - Test Doubles
+
+## In-class exercise
+- Test doubles: [Order Pricing Service](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2001%20Order%20Pricing%20Service.md)
+
+
 [Git clone https://github.com/arturomorarioja/py_classical_vs_london, https://github.com/arturomorarioja/js_classical_vs_london, https://github.com/arturomorarioja/php_classical_vs_london]: #
 [Download slides best practices and anti-patterns]: #
 
