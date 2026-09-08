@@ -2,5 +2,8 @@
 
 # Lesson 4 - 15 September
 
+[Solutions to Framing shop]: #
+[Solutions to employees]: #
+
 [Slides approaches]: #
 [In-class ex: approaches]: #
