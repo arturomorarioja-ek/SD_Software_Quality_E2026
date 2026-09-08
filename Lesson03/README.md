@@ -23,18 +23,8 @@
 - Test doubles: [Order Pricing Service](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2001%20Order%20Pricing%20Service.md)
 - [Unit testing best practices and anti-patterns](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2002%20Best%20Practices%20and%20Anti-Patterns.md)
 
-[Solutions to E-shop, Framing shop]: #
-[Check out who solved them. Leave those they did not work on for the following week]: #
-[If they worked in all of them, solve 2 at the start of the class, one in the middle, the last one at the end]: #
-
-[Slides on Pytest, Jest, PHPUnit]: #
-
-[ROLL CALL]: #
-
-[Slides best practices and anti-patterns]: #
-[In-class ex: best practices and anti-patterns]: #
-
-[Slides approaches]: #
-[In-class ex: approaches]: #
-
-[Homework: employees]: #
+## Homework
+- Check out all the slides covered today
+- Solve the following exercises:
+  - Black-box test design: [Framing shop](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/Ex%2006%20EP%20BV%20Framing%20shop.md)
+  - Unit testing: [Employees](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2004%20Employees.md)
