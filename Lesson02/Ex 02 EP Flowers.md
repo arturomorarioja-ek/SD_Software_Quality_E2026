@@ -7,3 +7,13 @@ If you were using equivalence partitioning to prepare test cases for the postage
 3. With the information provided, would there be any invalid partitions?
 
 <sub>Adapted from Hambling, Brian (2019). *Software Testing: An ISTQB-BCS Certified Tester Foundation Guide*, 4th ed.</sub>
+
+#### Solution
+
+|Partition type|Partition|Test case values|
+|:--|--:|--:|
+|Invalid|MIN DOUBLE - -0.01 kr|-100 kr|
+|Invalid|0 kr|0 kr|
+|Valid|0.01 kr - 150.00 kr|75 kr|
+|Valid|150.01 kr - 300.00 kr|225 kr|
+|Valid|300.01 kr - MAX DOUBLE|450 kr|
