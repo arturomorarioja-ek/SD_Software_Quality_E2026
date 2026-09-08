@@ -7,8 +7,8 @@
 
 - [Lesson 1](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson01/README.md) (25 August): Intro to Software Quality. Intro to Unit Testing
 - [Lesson 2](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson02/README.md) (1 September): SDLCs and the V-Model. Black-Box Test Design Techniques
-- [Lesson 3](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/README.md) (8 September): Unit Testing: test doubles, best practices, anti-patterns, and approaches
-- [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/README.md) (15 September): White-Box Test Design Techniques. Static Code Analysis
+- [Lesson 3](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/README.md) (8 September): Unit Testing: test doubles, best practices and anti-patterns
+- [Lesson 4](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/README.md) (15 September): Unit Testing approaches. White-Box Test Design Techniques. Static Code Analysis
 - [Lesson 5](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson05/README.md) (22 September): Integration Testing. API Testing. DB Testing. Continuous Testing
 - [Lesson 6](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson06/README.md) (29 September): End-to-End UI Testing
 - [Lesson 7](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson07/README.md) (6 October): Acceptance Testing. Agile and Testing. Test-Driven Development
