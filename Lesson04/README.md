@@ -7,3 +7,10 @@
 
 [Slides approaches]: #
 [In-class ex: approaches]: #
+
+[White-box]: #
+[White-box exercises]: #
+
+[Static analysis]: #
+[Video on SonarQube]: #
+[Exercise on static analysis]: #
