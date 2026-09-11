@@ -2,6 +2,8 @@
 
 # Lesson 4 - 15 September
 
+[Download Static Testing Analysis slides]: #
+
 [Solutions to Framing shop]: #
 [Solutions to employees]: #
 
