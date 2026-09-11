@@ -12,5 +12,5 @@
 [White-box exercises]: #
 
 [Static analysis]: #
-[Video on SonarQube]: #
+[Video on SonarQube: https://www.youtube.com/watch?v=HZT2sFWcVuI]: #
 [Exercise on static analysis]: #
