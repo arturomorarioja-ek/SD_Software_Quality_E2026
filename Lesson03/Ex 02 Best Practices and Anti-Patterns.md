@@ -219,6 +219,10 @@ void appliesDiscountToCartTotal()
     cart.add(60);
     cart.add(40);
 
+    double total = cart.getTotal();
+
+    assertEquals(100, total);
+
     double result = cart.applyDiscount(0.20);
 
     assertEquals(80, result);
@@ -232,10 +236,6 @@ void appliesDiscountToCartTotal()
     ShoppingCart cart = new ShoppingCart();
     cart.add(60);
     cart.add(40);
-
-    double total = cart.getTotal();
-
-    assertEquals(100, total);
 
     double result = cart.applyDiscount(0.20);
 
