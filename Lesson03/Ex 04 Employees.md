@@ -34,3 +34,8 @@ Write unit tests for the class.
 Design a comprehensive set of test cases.
 
 Use data providers when relevant.
+
+**Solutions**
+- [Jest/JavaScript](https://github.com/arturomorarioja/js_employee_unit_tests)
+- [Pyunit/Python](https://github.com/arturomorarioja/py_employee_unit_tests)
+- [PHPUnit/PHP8](https://github.com/arturomorarioja/php_employee_unit_tests)
