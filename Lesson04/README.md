@@ -2,10 +2,8 @@
 
 # Lesson 4 - 15 September
 
-[Download Static Testing Analysis slides]: #
-
-[Solutions to Framing shop]: #
-[Solutions to employees]: #
+## In-class exercise
+- [Classical vs. London Approach](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2003%20Classical%20vs%20London%20Approaches.md)
 
 [Slides approaches]: #
 [In-class ex: approaches]: #
