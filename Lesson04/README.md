@@ -20,9 +20,13 @@
     - The difference between statement and decision coverage
     - How to calculate coverage with different unit testing frameworks (slides on **Pytest**, **Jest**, **PHPUnit**) 
   
-## In-class exercises
+## In-class exercise
 - [Classical vs. London Approach](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2003%20Classical%20vs%20London%20Approaches.md)
-- [Coverage](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)
+
+## Homework
+- Check out all the slides above
+- Solve the following exercise
+  - [Coverage](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)
   
 [White-box]: #
 [White-box exercises]: #
