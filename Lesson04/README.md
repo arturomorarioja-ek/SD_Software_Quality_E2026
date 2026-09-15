@@ -14,23 +14,19 @@
       - Small unit tests
       - Everything is mocked
       - Code under test isolation (one unit test for each function/method)
-    - Shall external dependencies be mocked (Khorikov) or not (Wassell)?
+    - Mixed approaches (Khorikov, Wassell)
+    - Shall external dependencies be mocked?
   - **Test Design Techniques: White Box**, with a special focus on:
     - The value of coverage as a testing metric
     - The difference between statement and decision coverage
-    - How to calculate coverage with different unit testing frameworks (slides on **Pytest**, **Jest**, **PHPUnit**) 
+    - How to calculate coverage with different unit testing frameworks (slides on **Pytest**, **Jest**, **PHPUnit**)
+  - **Static Testing: Static Code Analysis**
   
 ## In-class exercise
 - [Classical vs. London Approach](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson03/Ex%2003%20Classical%20vs%20London%20Approaches.md)
 
 ## Homework
 - Check out all the slides above
-- Solve the following exercise
+- Solve the following exercises
   - [Coverage](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson04/01%20Coverage.md)
-  
-[White-box]: #
-[White-box exercises]: #
-
-[Static analysis]: #
-[Video on SonarQube: https://www.youtube.com/watch?v=HZT2sFWcVuI]: #
-[Exercise on static analysis]: #
+  - [Static Code Analysis Tools](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/Ex%2002%20Static%20Code%20Analysis.md)
