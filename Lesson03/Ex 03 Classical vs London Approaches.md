@@ -295,3 +295,8 @@ class Screening
     }
 }
 ```
+
+### Solution
+- [Python/Pytest](https://github.com/arturomorarioja/py_classical_vs_london)
+- [JavaScript/Jest](https://github.com/arturomorarioja/js_classical_vs_london)
+- [PHPUnit 11.5/PHP8](https://github.com/arturomorarioja/php_classical_vs_london)
