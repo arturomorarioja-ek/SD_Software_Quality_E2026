@@ -8,5 +8,7 @@
 [Slides IT]: #
   [Demo broad vs narrow py_order_service]: #
 [Slides API testing]: #
+  [Demo Postman]: #
+  [Ex Customers]: #
 [Slides DB testing]: #
 [Slides CT]: #
