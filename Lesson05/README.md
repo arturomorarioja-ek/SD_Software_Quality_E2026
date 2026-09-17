@@ -11,4 +11,7 @@
   [Demo Postman]: #
   [Ex Customers]: #
 [Slides DB testing]: #
+  [Maybe have them practice a bit with in-memory DBs?]: #
 [Slides CT]: #
+  [Little GitHub Actions demo]: #
+  [Maybe have them make a CI pipeline that runs tests for their previous testing repos?]: #
