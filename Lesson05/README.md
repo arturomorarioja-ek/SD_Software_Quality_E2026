@@ -8,7 +8,7 @@
 [Slides IT]: #
   [Demo broad vs narrow py_order_service]: #
 [Slides API testing]: #
-  [Demo Postman]: #
+  [Demo Postman. Use py_library_api]: #
   [Ex Customers]: #
 [Slides DB testing]: #
   [Maybe have them practice a bit with in-memory DBs?]: #
