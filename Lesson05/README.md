@@ -5,3 +5,8 @@
 [Solve a couple coverage exercises]: #
 [Enquire about static testing tools]: #
 
+[Slides IT]: #
+  [Demo broad vs narrow py_order_service]: #
+[Slides API testing]: #
+[Slides DB testing]: #
+[Slides CT]: #
