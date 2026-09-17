@@ -15,3 +15,5 @@
 [Slides CT]: #
   [Little GitHub Actions demo]: #
   [Maybe have them make a CI pipeline that runs tests for their previous testing repos?]: #
+
+[Homework: measure converter]: #
