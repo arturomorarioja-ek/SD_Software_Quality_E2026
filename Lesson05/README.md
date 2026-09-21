@@ -3,6 +3,7 @@
 # Lesson 5 - 22 September
 
 [git pull py_order_service]: #
+[git clone https://github.com/arturomorarioja/py_library_api_v3]: #
 
 [Solve a couple coverage exercises]: #
 [Enquire about static testing tools]: #
