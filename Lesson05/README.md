@@ -2,6 +2,8 @@
 
 # Lesson 5 - 22 September
 
+[git pull py_order_service]: #
+
 [Solve a couple coverage exercises]: #
 [Enquire about static testing tools]: #
 
