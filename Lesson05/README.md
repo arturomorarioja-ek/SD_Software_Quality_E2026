@@ -4,6 +4,7 @@
 
 [git pull py_order_service]: #
 [git clone https://github.com/arturomorarioja/py_library_api_v3]: #
+[git pull php_printer_cartridges (CT)]: #
 
 [Solve a couple coverage exercises]: #
 [Enquire about static testing tools]: #
@@ -16,7 +17,7 @@
 [Slides DB testing]: #
   [Maybe have them practice a bit with in-memory DBs?]: #
 [Slides CT]: #
-  [Little GitHub Actions demo]: #
+  [Little GitHub Actions demo: py_length_converter, js_vat, php_printer_cartridges_unit_tests]: #
   [Maybe have them make a CI pipeline that runs tests for their previous testing repos?]: #
 
 [Homework: measure converter]: #
