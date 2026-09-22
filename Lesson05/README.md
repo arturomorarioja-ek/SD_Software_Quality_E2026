@@ -2,9 +2,6 @@
 
 # Lesson 5 - 22 September
 
-[Slides API testing]: #
-  [Demo Postman. Use py_library_api]: #
-  [Ex Customers]: #
 [Slides DB testing]: #
   [Maybe have them practice a bit with in-memory DBs?]: #
 [Slides CT]: #
@@ -30,6 +27,9 @@
   - API Testing: [Library API v3](https://github.com/arturomorarioja/py_library_api_v3) Postman tests
     - [Collection](https://github.com/arturomorarioja/py_library_api_v3/blob/main/postman/Library%20API%20v3.postman_collection.json)
     - [Environment](https://github.com/arturomorarioja/py_library_api_v3/blob/main/postman/Library%20API%20v3.postman_environment.json)
+
+## In-class exercise
+- API Tests: [Customers](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson05/Ex%2001%20Customers%20API.md)
 
 ## Homework
 - Catch up on previous homework, specifically [static code analysis](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/Ex%2002%20Static%20Code%20Analysis.md)
