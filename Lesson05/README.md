@@ -25,8 +25,11 @@
     - How do API calls usually fail?
     - What to test for?
     - An API testing tool (Postman, Insomnia, ThunderClient or any other platform that allows you to write API tests)
-- Check out the following code sample
-  - [Narrow vs broad integration tests](https://github.com/arturomorarioja/py_order_service)
+- Check out the following code samples
+  - Narrow vs broad integration tests: [Order Service](https://github.com/arturomorarioja/py_order_service)
+  - API Testing: [Library API v3](https://github.com/arturomorarioja/py_library_api_v3) Postman tests
+    - [Collection](https://github.com/arturomorarioja/py_library_api_v3/blob/main/postman/Library%20API%20v3.postman_collection.json)
+    - [Environment](https://github.com/arturomorarioja/py_library_api_v3/blob/main/postman/Library%20API%20v3.postman_environment.json)
 
 ## Homework
 - Catch up on previous homework, specifically [static code analysis](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/Ex%2002%20Static%20Code%20Analysis.md)
