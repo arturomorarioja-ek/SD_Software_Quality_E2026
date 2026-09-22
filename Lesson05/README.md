@@ -2,15 +2,6 @@
 
 # Lesson 5 - 22 September
 
-[git pull py_order_service]: #
-[git clone https://github.com/arturomorarioja/py_library_api_v3]: #
-[git pull php_printer_cartridges (CT)]: #
-[git pull py_employee_unit_tests]: #
-[git pull https://github.com/arturomorarioja/customers_api]: #
-
-[Solve a couple coverage exercises]: #
-[Enquire about static testing tools]: #
-
 [Slides IT]: #
   [Demo broad vs narrow py_order_service]: #
 [Slides API testing]: #
@@ -25,3 +16,15 @@
   [Maybe have them make a CI pipeline that runs tests for their previous testing repos?]: #
 
 [Homework: measure converter]: #
+
+## Class takeaways
+- Check out the following slide decks on Itslearning:
+  - **Integration Testing**, with especial attention to
+    - Advantages: protection against regressions, resistance to refactoring
+    - Disadvantages: slow, difficult to maintain
+    - Broad vs. narrow integration tests
+- Check out the following code sample
+  - [Narrow vs broad integration tests](https://github.com/arturomorarioja/py_order_service)
+
+## Homework
+- Catch up on previous homework, specifically [static code analysis](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson04/Ex%2002%20Static%20Code%20Analysis.md)
