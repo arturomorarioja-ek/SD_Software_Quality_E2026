@@ -2,8 +2,6 @@
 
 # Lesson 5 - 22 September
 
-[Slides IT]: #
-  [Demo broad vs narrow py_order_service]: #
 [Slides API testing]: #
   [Demo Postman. Use py_library_api]: #
   [Ex Customers]: #
@@ -23,6 +21,10 @@
     - Advantages: protection against regressions, resistance to refactoring
     - Disadvantages: slow, difficult to maintain
     - Broad vs. narrow integration tests
+  - **API Testing**. Focus on:
+    - How do API calls usually fail?
+    - What to test for?
+    - An API testing tool (Postman, Insomnia, ThunderClient or any other platform that allows you to write API tests)
 - Check out the following code sample
   - [Narrow vs broad integration tests](https://github.com/arturomorarioja/py_order_service)
 
