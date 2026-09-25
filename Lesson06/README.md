@@ -2,6 +2,8 @@
 
 # Lesson 6 - 29 September
 
+[git pull customers API + customers Postman]: #
+
 [Solve Measure Converter]: #
 [Solve Customers API]: #
 
