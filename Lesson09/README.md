@@ -2,8 +2,6 @@
 
 # Lesson 9 - 20 October
 
-[Software Quality - Spring 2026](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/README.md)
-
 ### Homework
 - Check out the following slide decks:
   - **Database Testing**, especially focusing on the different approaches to test against the database (mocking, in-memory database, local copy, staging server)
