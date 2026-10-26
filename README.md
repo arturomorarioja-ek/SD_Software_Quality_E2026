@@ -14,6 +14,6 @@
 - Lesson 7 (6 October): Cancelled
 - Lesson 8 (13 October): Work on the First Mandatory Assignment
 - [Lesson 9](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson09/README.md) (20 October): DB Testing. Software Quality Management: Risk Analysis
-- [Lesson 10](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson10/README.md) (27 October): End-to-End UI Testing. Static Testing: Reviews
-- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Stress Performance Testing. Acceptance Testing. Agile and Testing
+- [Lesson 10](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson10/README.md) (27 October): End-to-End UI Testing. Acceptance Testing. Agile and Testing
+- [Lesson 11](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/README.md) (3 November): Stress Performance Testing. Static Testing: Reviews
 - [Lesson 12](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson12/README.md) (10 November): First Mandatory Assignment: student presentations  
