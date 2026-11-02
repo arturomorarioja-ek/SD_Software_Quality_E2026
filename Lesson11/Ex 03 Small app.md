@@ -2,7 +2,7 @@
 
 The class will be divided in groups of 4 or 5 students.
 
-1. Choose one of the following sample requirement specifications for review:
+1. Choose one of [the following sample requirement specifications](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson11/Review%20SRSs.zip) for review:
     - A currency exchange converter
     - A horoscope app
     - A measure converter
