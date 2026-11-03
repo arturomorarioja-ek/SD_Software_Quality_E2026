@@ -16,7 +16,7 @@
 - Reviewers: **[TBD]**
 - Scribe: **[TBD]**
 
-<img width="869" height="437" alt="image" src="https://github.com/user-attachments/assets/8e0b4dd1-0826-47c9-bca7-349c97af51d1" />
+<img width="869" height="437" alt="image" src="https://github.com/user-attachments/assets/dd9b9f5d-a5e3-406c-a282-c490c25aa322" />
 
 Legend:
 - A: To be solved by the author
