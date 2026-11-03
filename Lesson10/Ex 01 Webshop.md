@@ -24,3 +24,6 @@ In Selenium WebDriver, Cypress, and Playwright, write a happy path end-to-end t
 13. Log out. Confirm that the option "Log in" is on the page
 
 **NOTE**: JSON server must be started with `--host 127.0.0.1`. Otherwise Cypress will have trouble opening same-server services from different ports.
+
+### Solutions
+[Selenium/Python/Firefox](https://github.com/arturomorarioja/webshop_selenium_py_e2e) | [Cypress](https://github.com/arturomorarioja/js_webshop_e2e_tests) | [Playwright/JavaScript](https://github.com/arturomorarioja/js_webshop_playwright_tests)
