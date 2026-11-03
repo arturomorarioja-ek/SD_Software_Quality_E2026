@@ -83,3 +83,6 @@ Create requirements-based test checks for:
 Think about a useful method to document the test
 - Although acceptance tests are usually documented in tools like Jira or TestMonitor, use a simpler format like a spreadsheet. Get inspiration from the [Acceptance Test checklist](https://github.com/arturomorarioja-ek/SD_Software_Quality_F2026/blob/main/Lesson08/Acceptance%20Test%20checklist.xlsx), but try to come with your own format
 - Remember that it is users, not technical personnel, who will fill the document. Structure it in a clear, easy-to-follow way
+
+### Solution
+[Library Acceptance Test](https://github.com/arturomorarioja-ek/SD_Software_Quality_E2026/blob/main/Lesson10/Acceptance%20Test%20-%20Library.xlsx)
